@@ -1,5 +1,9 @@
-Game (Without .exe) = csgo
-[ONLY FOR CSGO]
-Close game before injection (T/F) =
-Open the game (T/F) = 
-Wait x before injection (Number) = 
+Game starter (without .exe) = metin2client.exe
+
+[COMBO]
+Usage (1:Email/Pass|2:User/Pass) = 1
+Threads = 50
+KeepUpConnection = 0
+
+[Proxy]
+UseServerProxies (T/F) =
